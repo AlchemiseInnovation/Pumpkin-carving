@@ -1,0 +1,90 @@
+{
+  "categories": [
+    {
+      "name": "Pumpkin",
+      "options": [
+        {
+          "id": "pumpkin_base",
+          "label": "Uncarved Pumpkin",
+          "image": "assets/pumpkin/base.png",
+          "lore": "A blank canvas awaiting your emotional imprint."
+        }
+      ]
+    },
+    {
+      "name": "Face",
+      "options": [
+        {
+          "id": "face_grin",
+          "label": "Grinning Curse",
+          "image": "assets/face/carve-face-3.png",
+          "lore": "A mischievous grin carved under a blood moon."
+        },
+        {
+          "id": "face_frown",
+          "label": "Mourning Ember",
+          "image": "assets/face/carve-face-2.png",
+          "lore": "A sorrowful gaze that remembers every fallen flame."
+        },
+        {
+          "id": "face_shock",
+          "label": "Stitched Silence",
+          "image": "assets/face/carve-face-1.png",
+          "lore": "Eyes wide with secrets too loud to speak."
+        }
+      ]
+    },
+    {
+      "name": "Head",
+      "options": [
+        {
+          "id": "head_ghost",
+          "label": "Ghost Visage",
+          "image": "assets/head/ghost.png",
+          "lore": "A spectral mask worn by those who’ve seen beyond the veil."
+        },
+        {
+          "id": "head_lizard",
+          "label": "Lizard Helm",
+          "image": "assets/head/lizard.png",
+          "lore": "Forged in the heat of satire, worn by the bold."
+        }
+      ]
+    },
+    {
+      "name": "Body",
+      "options": [
+        {
+          "id": "body_cloak",
+          "label": "Bone Cloak",
+          "image": "assets/body/bone_cloak.png",
+          "lore": "Threads woven from forgotten oaths and marrow dust."
+        },
+        {
+          "id": "body_suit",
+          "label": "Visitor Suit",
+          "image": "assets/body/visitor_suit.png",
+          "lore": "Standard issue for those touring the 1983 dimension."
+        }
+      ]
+    },
+    {
+      "name": "Aura",
+      "options": [
+        {
+          "id": "aura_fire",
+          "label": "Flame Sigil",
+          "image": "assets/aura/flame.png",
+          "lore": "Burns with the memory of every challenge overcome."
+        },
+        {
+          "id": "aura_sight",
+          "label": "Sight Halo",
+          "image": "assets/aura/sight.png",
+          "lore": "Reveals truths hidden in the folds of reality."
+        }
+      ]
+    }
+  ]
+}
+
